@@ -103,6 +103,9 @@ body{
         color: #000; 
     
     }
+    h1{
+        font-size: 17px;
+    }
     .digit, .function{
         color: #000;
     }
